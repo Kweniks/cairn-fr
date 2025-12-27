@@ -13,7 +13,7 @@ A forestcrawl is a simple method for exploring a large forested area, typically 
 
 ### Exploring The Wood
 
-- Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
+- Follow the _Dungeon_ exploration procedures found in the Guide de l'utilisateur, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
 - If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear: added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
 - Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest (10-15 POIs) can be explored in a single Watch.
 - Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may contain in the darkness. 

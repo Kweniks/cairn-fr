@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overview & Principles
-parent: Player's Guide
+parent: Guide de l'utilisateur
 grand_parent: Second Edition
 ---
 

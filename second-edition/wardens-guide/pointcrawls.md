@@ -14,7 +14,7 @@ Although the standard setting generation procedures in this book assume a pointc
 
 ## Converting a Map
 
-The following method relies heavily on the Wilderness Exploration procedures in the Cairn 2e Player's Guide.  
+The following method relies heavily on the Wilderness Exploration procedures in the Cairn 2e Guide de l'utilisateur.  
 
 - Number any potential points of interest on the map.
 - Identify potential routes between each point, noting obvious roads, trails, and waterways. Indicate any sites that lack connecting routes to other points. 

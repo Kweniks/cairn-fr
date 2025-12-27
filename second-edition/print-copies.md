@@ -7,7 +7,7 @@ nav_order: 5
 
 # Print Copies
 
-## Cairn 2nd Edition Player's Guide 
+## Cairn 2nd Edition Guide de l'utilisateur 
 
 ### Offset Prints (Perfect bound, at cost)
 
